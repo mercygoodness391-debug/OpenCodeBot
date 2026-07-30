@@ -1,0 +1,11 @@
+{
+  "name": "code-assistant-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "openai": "^4.20.0"
+  }
+}
