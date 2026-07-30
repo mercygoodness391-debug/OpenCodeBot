@@ -1,0 +1,10 @@
+{
+  "name": "opencode-telegram-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "opencode-telegram start"
+  },
+  "dependencies": {
+    "@levra7/opencode-telegram-bot": "latest"
+  }
+}
